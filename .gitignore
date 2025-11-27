@@ -1,0 +1,43 @@
+# Dependências (Nunca envie isso)
+node_modules/
+.pnpm-store/
+
+# Next.js build output (Gerado automaticamente no build)
+/.next/
+/out/
+
+# Produção / Build
+build/
+dist/
+
+# Logs de erro e debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Arquivos de ambiente (SEGURANÇA: Contém chaves secretas)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.env.*
+
+# Vercel (se for usar)
+.vercel
+
+# Arquivos de sistema operacional (lixo)
+.DS_Store
+Thumbs.db
+
+# Configurações de editor (opcional, mas recomendado)
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
