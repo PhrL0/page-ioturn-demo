@@ -135,7 +135,7 @@ export default function AboutPage() {
               </span>
             </h1>
             <p className="text-xl text-muted-foreground text-balance max-w-3xl mx-auto leading-relaxed">
-              Somos um time multidisciplinar de especialistas apaixonados por
+              Somos um time multidisciplinar de estudantes apaixonados por
               tecnologia e inovação, dedicados a transformar a indústria através
               de soluções IoT inteligentes.
             </p>
