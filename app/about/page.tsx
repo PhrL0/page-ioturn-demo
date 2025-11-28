@@ -14,8 +14,8 @@ const teamMembers = [
     name: "Pedro Henrique Rodrigues Leme",
     role: "Dev FullStack & IOT developer",
     image:
-      "/pro                                                                                                                                                         fessional-woman-engineer-smiling-portrait.jpg",
-    bio: "CEO da Nextron IS & Dev Full Stack & IoT. Unindo eletrônica e desenvolvimento de software para criar o futuro da conectividade industrial.",
+      "/pedro3.jpg",
+    bio: "Arquiteto de soluções para a Indústria 4.0. Integrando eletrônica e sistemas embarcados com software avançado e inteligência artificial, criando a espinha dorsal da próxima geração de conectividade industrial.",
     technologies: [
       "Node.js",
       "React",
