@@ -14,7 +14,7 @@ const teamMembers = [
     name: "Pedro Henrique Rodrigues Leme",
     role: "Dev FullStack & IOT developer",
     image:
-      "/pedro3.jpg",
+      "/20250531_141414.jpg",
     bio: "Arquiteto de soluções para a Indústria 4.0. Integrando eletrônica e sistemas embarcados com software avançado e inteligência artificial, criando a espinha dorsal da próxima geração de conectividade industrial.",
     technologies: [
       "Node.js",
